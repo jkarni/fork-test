@@ -1,4 +1,4 @@
 {
-  outputs = {self}: {};
+  outputs = {...}: {};
   inputs = {};
 }
